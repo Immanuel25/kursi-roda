@@ -63,7 +63,6 @@ int trigOut = 4;
 int echoIn = 5;
  
 // kecepatan motor
- 
 int MotorSpeed1 = 0;
 int MotorSpeed2 = 0;
 
@@ -200,7 +199,7 @@ void gauge(uint8_t angle) {
 
   u8g.setPrintPos(51,49);           
 
-  u8g.print("SPEED");
+  u8g.print("SPooD");
 
  
 
