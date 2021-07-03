@@ -33,6 +33,8 @@
 #define lalahuta 6
 #define jancuk 9
 //kok bisa, yaiyadong
+//lalalalalaaaaa ulala
+
 int pwm1 = 9; //PWM Motor 1
 int dir1 = 8; //dir Motor 1
 
